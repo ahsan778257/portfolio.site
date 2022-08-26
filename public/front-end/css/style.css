@@ -1,0 +1,156 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.navber-container{
+    background-color: #00000066;
+
+
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+.home{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10rem;
+    background-color: #06357a;
+}
+.i{
+    color: #c5e8ef;
+    font-weight: bolder;
+}
+.e{
+    color: #c5e8ef;
+    font-weight: bolder;
+
+}
+.education{
+    background-color: yellow;
+}
+.footer{
+    background-color: yellow;
+}
+.about{
+    display: flex;
+    background: white;
+    background-color: yellow;
+
+
+
+
+
+}
+.about-image{
+    height: 344px;
+    width: 612px;
+    margin: auto;
+    padding-left: 40px;
+}
+.about-des h1{
+    margin: auto;
+    padding: 10px;
+    font-weight: bold;
+
+}
+.about-des p {
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+}
+.html{
+    padding-right: 5px;
+    text-align: right;
+
+}
+.progress{
+    justify-content: center;
+
+}
+.para{
+    text-align: justify;
+    padding: 5px;
+
+}
+.fw-bold{
+    padding-bottom: 5rem;
+
+}
+
+.card1{
+    background-color: #bfe2e9;
+    margin: auto;
+    height: 450px;
+    width: 380px;
+    border: 1px solid white;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+
+
+}
+
+.card1:hover{
+    background-color: yellow;
+
+}
+.card-title{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    padding-bottom: 20px;
+
+
+}
+.fw-bolder{
+    font-size: 40px;
+}
+.btn{
+    border: 2px solid;
+}
+.btn:hover{
+    background-color: #0b5ed7;
+}
+.progress-bar{
+    background-color: #25cff2;
+}
+.circle{
+    height: 60px;
+    width: 60px;
+    border: 2px solid yellow;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    padding-top: 3px;
+}
+
+
+.circle-footer{
+
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    font-size: 35px;
+    text-align: center;
+    color: blue;
+    justify-content: center;
+}
+.circle-footer:hover{
+    background-color: #b6d4fe;
+}
+.in{
+    color: white;
+}
+
+
+
